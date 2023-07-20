@@ -1,0 +1,68 @@
+@media (max-width:1024px){
+
+}
+
+
+@media (max-width:800px){
+    
+}
+
+
+
+@media (max-width:768px){
+    
+}
+
+
+
+@media (max-width:600px){
+    
+}
+
+
+
+@media (max-width:450px){
+    
+    .word-card {
+        width: 160px;
+    }
+
+    .accordion {
+        padding: 4px;
+    }
+
+    .word-card button {
+        font-size: 20px;
+    }
+
+
+    .panel p{
+        font-size: 10px;
+    }
+
+    .panel ul{
+        font-size: 10px;
+        line-height: 16px;
+        padding: 2px;
+    }
+}
+
+
+
+
+@media (max-width:400px){ 
+    .word-card {
+        width: 140px;
+    }
+
+    .panel p{
+        font-size: 10px;
+    }
+
+    .panel ul{
+        font-size: 10px;
+        line-height: 16px;
+        padding: 2px;
+    }
+        
+}
